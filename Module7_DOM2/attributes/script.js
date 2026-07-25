@@ -10,7 +10,7 @@
 // console.log(pa.getAttribute("class"));
 let div=document.querySelector("div");
 div.style.fontSize="20px";
-div.innerText="hello !!"
+div.innerText="hello !!";
 
 
 
